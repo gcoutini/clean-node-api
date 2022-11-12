@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "jest": "jest",
+    "lint:staged": "lint-staged",
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky install"
   },
